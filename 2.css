@@ -1,0 +1,20 @@
+/*****************************************************************************/
+/* External CSS */
+/*****************************************************************************/
+.left {
+  font-style: italic;
+  color: blue;
+  margin-left: 20px;
+}
+.center {
+  letter-spacing: -2px;
+  text-decoration: underline;
+  text-align: center;
+}
+.right {
+  font-variant: small-caps;
+  text-align: right;
+  color: red;
+  font-style: italic;
+  text-decoration: overline;
+}
